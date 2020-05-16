@@ -13,4 +13,4 @@ Syntax highlighted code block
 
 ### Policy
 
-[Policy](https://help.github.com/categories/github-pages-basics/)
+[Policy](https://www.dropbox.com/s/0tlpisjw7s2u25r/Touch-Xylophone_Policy.docx?dl=0)
